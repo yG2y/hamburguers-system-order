@@ -1,20 +1,25 @@
 <template>
 <div>
-  <Navbar />
+ <Qwe />
   <router-view/>
-  <Footer />
+ <Dsa />
 </div>
 
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
-import Footer from './components/Footer.vue'
+
+import Dsa from './components/Dsa.vue'
+import Qwe from './components/Qwe.vue'
+
+
 export default {
   components: {
-    Navbar,
-    Footer
-  }
+
+    Dsa,
+    Qwe,
+
+}
 }
 </script>
 
