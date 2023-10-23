@@ -155,6 +155,21 @@
       ],
       "status": "Solicitado",
       "id": 7
+    },
+    {
+      "nome": "Paula Tejando",
+      "pao": "3 Queijos",
+      "carne": "Maminha",
+      "opcionais": [
+        "Cheddar",
+        "Tomate",
+        "Pepino",
+        "Cebola roxa",
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 8
     }
   ]
 }
