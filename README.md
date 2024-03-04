@@ -6,7 +6,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/yG2y/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/yG2y/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+
+<img src="/sistema_pedidos/public/img/home-img.png" alt="Exemplo imagem">
 
 > Aplicação realiza pedidos customizados na escolha de ingredientes do hamburguer, na parte de administração é disponibilizada a alteração de status do pedido ou até mesmo seu cancelamento.
 
@@ -14,7 +15,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [] Correção de bug com eslint no nomes de componentes
+- [ ] Correção de bug com eslint no nomes de componentes
 
 ## 💻 Pré-requisitos
 
